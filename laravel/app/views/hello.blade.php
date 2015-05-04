@@ -6,7 +6,7 @@
         {{ Form::assets("header-css") }}
     </head>
     <body>
-        <h1>Hello World with capistrano 2nd time!</h1>
+        <h1>NEW AGE</h1>
         {{ Form::assets("footer-js") }}
     </body>
 </html>
